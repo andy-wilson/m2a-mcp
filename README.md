@@ -210,7 +210,7 @@ go test ./...
 
 ## Resources
 
-- [M2A Media Official Site](https://m2amedia.tv)
+- [M2A Media](https://m2amedia.tv)
 - [M2A Connect API Documentation](https://cloud.m2amedia.tv/docs/html/connect/api.html)
 - [M2A Live API Documentation](https://cloud.m2amedia.tv/docs/html/live/api.html)
 - [Model Context Protocol](https://modelcontextprotocol.io)

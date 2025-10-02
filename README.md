@@ -215,12 +215,9 @@ go test ./...
 - [M2A Live API Documentation](https://cloud.m2amedia.tv/docs/html/live/api.html)
 - [Model Context Protocol](https://modelcontextprotocol.io)
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Support
 
-For M2A Media API support, contact ops@m2amedia.tv
+For M2A Media API support please speak to your assigned project/service contact. 
 
 For issues with this MCP service, please open an issue on GitHub.

@@ -1,10 +1,10 @@
 # M2A Media MCP Service
 
-** BIG FAT WARNING! ** 
+**BIG FAT WARNING!** 
 
 This was put together as an experiment with Claude Code and Sonnet 4.5. ** Here be large, possibly drunken, and definitely unweildy dragons! **
 
-** USE AT YOUR OWN RISK, AND PREFERABLY NOT ON YOU PRODUCTION ACCOUNT! **
+**USE AT YOUR OWN RISK, AND PREFERABLY NOT ON YOU PRODUCTION ACCOUNT!**
 
 ---
 

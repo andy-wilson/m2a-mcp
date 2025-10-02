@@ -45,7 +45,7 @@ The service requires the following environment variables:
 
 To obtain API credentials:
 
-1. Contact M2A Media at ops@m2amedia.tv
+1. Contact M2A Media
 2. Provide your company details and AWS Entitlement information
 3. Receive initial login credentials
 4. Associate your AWS account with M2A

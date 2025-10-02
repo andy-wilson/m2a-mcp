@@ -10,6 +10,7 @@ This was put together as an experiment with Claude Code and Sonnet 4.5. **Here b
 
 A Model Context Protocol (MCP) service for interacting with M2A Media's cloud-based video orchestration and automation platform. This service provides comprehensive access to M2A Connect, Live, Capture, and VOD APIs.
 
+**DID I MENTION THAT THIS IS EXPERIMENTAL? IT REALLY IS YOU KNOW. PLEASE DON'T USE THIS IN PRODUCTION, OR IN AN ACCOUNT YOU CARE ABOUT**
 ## Features
 
 - **M2A Connect**: Manage video sources, subscribers, subscriptions, and schedules
